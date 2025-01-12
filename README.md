@@ -36,7 +36,7 @@
    - 使用DenseNet深度学习模型
    - 实现Web交互界面
    - 支持单个和连续数字识别
-
+![](Experience/IMAGE/Task3.gif)
 ## 目录结构
 
 ```
