@@ -262,5 +262,5 @@ def display_results(image_path):
     np.save(output_dir + 'gray_histogram.npy', gray_hist) #同质性
     np.save(output_dir + 'glcm_matrix.npy', glcm) #能量
 
-image_path = './test2.jpg'
+image_path = './test1.jpg'
 display_results(image_path)
